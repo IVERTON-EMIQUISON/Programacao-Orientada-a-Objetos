@@ -1,0 +1,10 @@
+/*
+* javac Programa.java
+* java Programa
+*/
+
+public class Programa {
+  public static void main(String[] args) {
+      // Programa vazio
+  }
+}

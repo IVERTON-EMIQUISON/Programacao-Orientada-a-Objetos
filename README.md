@@ -4,7 +4,7 @@
 
 ## Introdução ao Java
 - [ver slides](https://docs.google.com/presentation/d/1LZMDPwgKKjzH72LiFWfY87JVZLXYawaSm6T_WoGlJ3Q/edit?usp=sharing)
-- [códigos-fonte](https://github.com/italoaug/Programacao-Orientada-a-Objetos/codigos/intro-java)
+- [códigos-fonte](codigos/intro-java)
 ## Estruturas de Controle e Decisão
 ## Estruturas de Repetição ou Iteração
 ## Introdução à Recursão

@@ -6,7 +6,11 @@
 - [ver slides](https://docs.google.com/presentation/d/1LZMDPwgKKjzH72LiFWfY87JVZLXYawaSm6T_WoGlJ3Q/edit?usp=sharing)
 - [códigos-fonte](codigos/intro-java)
 ## Estruturas de Controle e Decisão
+- [ver slides](https://docs.google.com/presentation/d/1QbVM8Dp27Zvo4QiB6O7Rh-hr2j_og_h_Hsl86cxhvvM/edit?usp=sharing)
+- [códigos-fonte](codigos/condicionais)
 ## Estruturas de Repetição ou Iteração
+- [ver slides](https://docs.google.com/presentation/d/1oRlCmhbQdo4K9PGeAK67hj0QfpRR0atXPEeXht17wOE/edit?usp=sharing)
+- [códigos-fonte](codigos/repeticao)
 ## Introdução à Recursão
 ## Introdução aos Paradigmas de Programação e POO
 ## Criação de Classes

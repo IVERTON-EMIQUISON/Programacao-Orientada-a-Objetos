@@ -12,6 +12,8 @@
 - [ver slides](https://docs.google.com/presentation/d/1oRlCmhbQdo4K9PGeAK67hj0QfpRR0atXPEeXht17wOE/edit?usp=sharing)
 - [códigos-fonte](codigos/repeticao)
 ## Introdução à Recursão
+- [ver slides](https://docs.google.com/presentation/d/1FaP51Kptif2_OGw57ytHOsjzC0XbfCNncer2UbhGf1o/edit?usp=sharing)
+- [códigos-fonte](codigos/recursao)
 ## Introdução aos Paradigmas de Programação e POO
 ## Criação de Classes
 ## Coleção de Tipos e Objetos

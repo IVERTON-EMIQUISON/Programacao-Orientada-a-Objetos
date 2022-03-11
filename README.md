@@ -15,6 +15,7 @@
 - [ver slides](https://docs.google.com/presentation/d/1FaP51Kptif2_OGw57ytHOsjzC0XbfCNncer2UbhGf1o/edit?usp=sharing)
 - [códigos-fonte](codigos/recursao)
 ## Introdução aos Paradigmas de Programação e POO
+- [ver slides](https://docs.google.com/presentation/d/1mvE5k6RiUud38picgOFcrh3xd_7fppIiupeu1lAUu8Y/edit?usp=sharing)
 ## Criação de Classes
 ## Coleção de Tipos e Objetos
 ## Reúso de Classes

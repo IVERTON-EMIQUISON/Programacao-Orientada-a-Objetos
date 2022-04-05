@@ -17,6 +17,7 @@
 ## Introdução aos Paradigmas de Programação e POO
 - [ver slides](https://docs.google.com/presentation/d/1mvE5k6RiUud38picgOFcrh3xd_7fppIiupeu1lAUu8Y/edit?usp=sharing)
 ## Criação de Classes
+- [ver slides](https://docs.google.com/presentation/d/1V_lZ6iAJotNLXYE9PkXU1HU9h8W5Q6eXmVCpXlpG25s/edit?usp=sharing)
 ## Coleção de Tipos e Objetos
 ## Reúso de Classes
 ## Classes abstratas, polimorfismo e interfaces

@@ -19,9 +19,14 @@
 ## Criação de Classes
 - [ver slides](https://docs.google.com/presentation/d/1V_lZ6iAJotNLXYE9PkXU1HU9h8W5Q6eXmVCpXlpG25s/edit?usp=sharing)
 - [códigos-fonte](codigos/classe)
-## Coleção de Tipos e Objetos
+## Arrays e ArrayLists
+- [ver slides](https://docs.google.com/presentation/d/1R0dWijGCZhhwRGtTrZrRqGvY5Oq1U8DXfaxjPiMtJkY/edit?usp=sharing)
+- [códigos-fonte](codigos/arrays)
 ## Reúso de Classes
+- [ver slides](https://docs.google.com/presentation/d/1g-OORqJJizgIks3gemE05RqDDyXYdfe7I7wvs1GnFfo/edit?usp=sharing)
+- [códigos-fonte](codigos/reuso)
 ## Classes abstratas, polimorfismo e interfaces
+## Coleções genéricas
 ## Exceções
 
 ---

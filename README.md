@@ -29,6 +29,8 @@
 - [ver slides](https://docs.google.com/presentation/d/1ZvDu_v0H93xr4JOkWH9IHR1aj3V3Wn7x-nq6wvz-xNo/edit?usp=sharing)
 - [códigos-fonte](codigos/abstrata-polimorfismo-interface)
 ## Coleções genéricas
+- [ver slides](https://docs.google.com/presentation/d/1A2i4yWIgpxbwca9tFTYUNzhmvuZievgW6nAWpu-OAFs/edit?usp=sharing)
+- [códigos-fonte](codigos/colecoes)
 ## Exceções
 
 ---

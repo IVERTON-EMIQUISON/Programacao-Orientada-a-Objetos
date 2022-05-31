@@ -32,6 +32,8 @@
 - [ver slides](https://docs.google.com/presentation/d/1A2i4yWIgpxbwca9tFTYUNzhmvuZievgW6nAWpu-OAFs/edit?usp=sharing)
 - [códigos-fonte](codigos/colecoes)
 ## Exceções
+- [ver slides](https://docs.google.com/presentation/d/1ce7TKEtl0f4e5p5-klhVEXko-mRdX2kz1sCN0EnbWKE/edit?usp=sharing)
+- [códigos-fonte](codigos/excecoes)
 
 ---
 Encontrou algum erro? Tem alguma sugestão de melhoria? Envie um [email](mailto:italo.assis@ufersa.edu.br).
